@@ -1,0 +1,43 @@
+📅 2026.01.23 (금) 학습 정리
+📌 학습 주제
+
+pandas 기본 데이터 처리 및 시각화 복습
+
+📘 학습 내용
+1. DataFrame 조건 필터링
+
+query() 문법 이해
+
+and / or 사용 이유 정리 (&, |와의 차이)
+
+불린 인덱싱과 mask 방식 복습
+
+2. 문자열 처리
+
+.str 접근자의 역할 이해
+
+str.contains() vs str.fullmatch() 차이 비교
+
+정규식 기반 문자열 필터링 정리
+
+3. 경로 및 파일 처리
+
+os.getcwd(), os.listdir() 역할 정리
+
+os.chdir()는 작업 디렉터리만 변경한다는 점 이해
+
+os.path.join()은 경로 문자열 생성 함수임을 정리
+
+4. 데이터 시각화 (pandas plot)
+
+plot() 기본 동작 이해 (선 그래프)
+
+bar, barh, stacked 그래프 차이
+
+hist() vs plot(kind='hist') 비교
+
+scatter, box plot을 통한 데이터 분포·관계 이해
+
+✍️ 한 줄 요약
+
+pandas에서 조건 필터링부터 문자열 처리, 경로 관리, 기본 통계 및 시각화까지 데이터 분석의 기초 흐름을 복습했다.
